@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-world-of-reighlor/kingdom-of-leloria/joleria/guilds-of-joleria/conquest-of-glory-cog/cog-staff/badyn-dilach/"}
 ---
 
-**Badyn Dilach**
 COG Taverner 
 Age: 105 yrs 
 Race: Drow 
