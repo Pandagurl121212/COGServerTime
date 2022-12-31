@@ -13,17 +13,19 @@ COG Staff List
 [[The World Of Reighlor/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Darrum Renraker\|Darrum Renraker]] Guild Armorer
 [[The World Of Reighlor/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Sienna Bladewright\|Sienna Bladewright]] Guild Healer 
 
+
 Rank System of Guilds 
-Rank- Title-Rep Points needed
-0	Champion	500,000
-1	Master	250,000
-2	Expert	150,000
-3	Veteran	90,000
-4	Adept	45,000
-5	Fellow	25,000
-6	Journeyman	12,000
-7	Apprentice	5,000
-8	Initiate	1,000
-9	Rookie	500
-10  Novice	0
+|Rank | Title |Rep Points needed|
+|---|---|---|
+|0	|Champion|	500,000
+|1	|Master	|250,000
+|2	|Expert	|150,000
+|3	|Veteran	|90,000
+|4	|Adept	|45,000
+|5 |Fellow	|25,000
+|6	|Journeyman	|12,000
+|7	|Apprentice	|5,000
+|8	|Initiate	|1,000
+|9	|Rookie	|500
+|10  |Novice	|0
 
