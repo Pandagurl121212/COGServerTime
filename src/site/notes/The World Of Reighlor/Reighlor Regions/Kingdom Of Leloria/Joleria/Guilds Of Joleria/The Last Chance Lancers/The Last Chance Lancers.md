@@ -8,3 +8,8 @@ They are self announced rivals of [[The World Of Reighlor/Reighlor Regions/Kingd
 Members are known to showboat and try to prove themselves constantly to their higher ups. Seemingly very overtly masculine they are still caring of those close to them and generally do not tolerate those who are on the toxic side. (Does not mean that there are not those like that in the guild, as such is life.) Many members hold true that it is acceptable to kiss the homies goodnight. 
 
 ### **LCL Staff**
+Guild Master
+Guild Advisor
+Guild Recruiter 
+Guild Quester
+Guild Trainer 
