@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/the-world-of-reighlor/reighlor-regions/kingdom-of-leloria/joleria/guilds-of-joleria/conquest-of-glory-cog/conquest-of-glory/"}
 ---
 
-COG Staff List
+Conquest of Glory is the #1 Guild in Joleria and focusing on it's reputation and helping those in need. Most quests need to be of a certain standing to make it on to their quest boards which is understandable as they are the most renown Guild in all of Leloria! 
+
+### **COG Staff List**
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Reome Rockbane\|Reome Rockbane]] Guild Master
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Vo Blackbrook\|Vo Blackbrook]] Guild Advisor 
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Calrana (Cal) Brightvine\|Calrana (Cal) Brightvine]] Guild Quester 
