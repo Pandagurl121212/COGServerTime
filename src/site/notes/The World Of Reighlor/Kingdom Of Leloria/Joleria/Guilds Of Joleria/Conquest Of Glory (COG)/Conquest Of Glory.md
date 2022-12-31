@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/the-world-of-reighlor/kingdom-of-leloria/joleria/guilds-of-joleria/conquest-of-glory-cog/conquest-of-glory/"}
 ---
 
+**Conquest Of Glory**
+
 COG Staff List
 [[The World Of Reighlor/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Reome Rockbane\|Reome Rockbane]] Guild Master
 [[The World Of Reighlor/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Vo Blackbrook\|Vo Blackbrook]] Guild Advisor 
