@@ -6,4 +6,3 @@
 2. Ties go to the Player (ALWAYS)
 3. Magic items are COMMON- (Prices are almost halved listed)
 4. Heath Potion Use- Is Bonus Action for ALL
-5. 
