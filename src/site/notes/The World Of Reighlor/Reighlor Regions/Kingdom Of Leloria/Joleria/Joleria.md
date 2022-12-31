@@ -10,7 +10,7 @@ Joleria is home to many Guilds. Below is a few of them.
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Kord’s Grace (KG)\|Kord’s Grace (KG)]]
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/The Dark Legacy Creatures\|The Dark Legacy Creatures]]
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/The Final Hope\|The Final Hope]]
-[[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/The Last Chance Lancers\|The Last Chance Lancers]]
+[[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/The Last Chance Lancers/The Last Chance Lancers\|The Last Chance Lancers]]
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/The Order of the Glaive\|The Order of the Glaive]]
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Alley Kraken/Alley Kraken\|Alley Kraken]]
 
