@@ -9,7 +9,7 @@ Capitol: Katliaq
 Ulmesse Noble Families:
 
 Tressa - Emperor/Ruling 
-Ruvyn - The Military
+Ruvyn - The Military (Favored Prized weapon double bladed scimitar)
 Frezan- The Arbitrators
 Morellae- The Merchants
 Helion- The Priests
