@@ -4,3 +4,6 @@
 
 The Guild for Artificers and Creators of all kinds. 
 
+
+Cortix from COG was kicked out of here. 
+
