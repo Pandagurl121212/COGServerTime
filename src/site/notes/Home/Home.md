@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/home/home/","tags":["gardenEntry"]}
 ---
 
 # Welcome to the [[The World Of Reighlor/The World of Reighlor\|The World of Reighlor]]
