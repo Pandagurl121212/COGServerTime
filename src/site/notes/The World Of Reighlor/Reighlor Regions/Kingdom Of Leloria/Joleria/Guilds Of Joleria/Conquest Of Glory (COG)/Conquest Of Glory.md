@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-world-of-reighlor/reighlor-regions/kingdom-of-leloria/joleria/guilds-of-joleria/conquest-of-glory-cog/conquest-of-glory/"}
 ---
 
-Conquest of Glory is the #1 Guild in Joleria and focusing on it's reputation and helping those in need. Most quests need to be of a certain standing to make it on to their quest boards which is understandable as they are the most renown Guild in all of Leloria! 
+Conquest of Glory is the #1 Guild in Joleria, focusing on it's reputation and helping those in need. Most quests need to be of a certain standing to make it on to their quest boards which is understandable as they are the most renown and capable Guild in all of Leloria!  
 
 ### **COG Staff List**
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Guilds Of Joleria/Conquest Of Glory (COG)/COG STAFF/Reome Rockbane\|Reome Rockbane]] Guild Master
@@ -29,5 +29,5 @@ Rank System of Guilds
 |7	|Apprentice	|5,000
 |8	|Initiate	|1,000
 |9	|Rookie	|500
-|10  |Novice	|0
+|10 |Novice	|0
 
