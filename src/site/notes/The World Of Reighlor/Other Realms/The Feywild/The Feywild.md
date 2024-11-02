@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/the-world-of-reighlor/other-realms/the-feywild/the-feywild/"}
+---
+
+The Feywild used to have a strong presence in all the lands but now it can only be accessed in the [[The World Of Reighlor/Reighlor Regions/Ulmesse Empire/Ulmesse Empire\|Ulmesse Empire]] and [[The World Of Reighlor/Reighlor Regions/Berburland/Berburland\|Berburland]]. Being forced out of other areas in the past it seems that the entrances avoid the new technology of the lands it had left. Those that reside in the Feywild have an understanding with the Ulmesse Empress which helps the Ulmesse not crumble under the ever growing greed of other nations. Feywild doors have been known open in other areas on occasion though very rarely, but are abundant in Berburland which can cause folks to wander in without knowing and by then it's too late. Some have reported traveling in one country to find themselves in another due to the unpredictability of these doorways. 
