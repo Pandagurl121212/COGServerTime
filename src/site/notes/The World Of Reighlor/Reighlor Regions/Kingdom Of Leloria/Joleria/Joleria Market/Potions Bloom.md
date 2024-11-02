@@ -8,4 +8,4 @@ Age:  15yrs (really 85yrs)
 Race: Half Elf
 Class: 
 Rank: 
-About: Dislike most folks, was an older woman who acidently brewed a life reversal potion and was now growing younger as time passed. As of now she looks about15yrs old.
+About: Dislike most folks, was an older woman who accidently brewed a life reversal potion and was now growing younger as time passed. As of now she looks about15yrs old.
