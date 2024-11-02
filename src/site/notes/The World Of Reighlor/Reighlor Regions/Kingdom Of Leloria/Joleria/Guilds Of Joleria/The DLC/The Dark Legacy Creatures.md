@@ -68,7 +68,7 @@ About: Zhikes is a upbeat and happy person, little can crush her optimism. She p
 #### Guild Trainer: Chulluk 
 Age:  
 Race:  Goliath
-Class:
+Class: Fighter
 About: As the Trainer of the DLC Chulluk takes his role seriously. Maybe too seriously. He likes to play into the role of brooding mysterious member of the DLC even though many other people in the Guild might not fit that same role. 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
