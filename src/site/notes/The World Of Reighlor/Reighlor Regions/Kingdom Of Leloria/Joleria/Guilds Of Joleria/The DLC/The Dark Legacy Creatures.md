@@ -9,13 +9,13 @@ The DLC is not inherently evil but they also do not claim to be good by any mean
 
 
 #### The DLC Staff:
-Guild Master - Rurgar 
+Guild Master - Rurgar Zo
 - 
-Guild Advisor - 
+Guild Advisor - Frethah Vellum
 - 
-Guild Recruiter -  
+Guild Recruiter -  Zhikes Tirlla
 - 
-Guild Quester - 
+Guild Quester - Nayte Shade
 - 
-Guild Trainer - 
+Guild Trainer - Chulluk 
 - 
