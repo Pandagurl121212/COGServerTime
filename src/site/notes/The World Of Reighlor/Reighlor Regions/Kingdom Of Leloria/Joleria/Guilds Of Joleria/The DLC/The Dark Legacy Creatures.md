@@ -8,14 +8,29 @@ The DLC is not inherently evil but they also do not claim to be good by any mean
 
 
 
-#### The DLC Staff:
-Guild Master - Rurgar Zo
-- Tiefling 
-Guild Advisor - Frethah Vellum
-- Firbolg 
-Guild Recruiter -  Nayte Shade
-- Drow  
-Guild Quester - Zhikes Tirlla
-- Owlin
-Guild Trainer - Chulluk 
-- Goliath 
+## The DLC Staff:
+#### Guild Master: Rurgar Zo
+Age:  
+Race:  Tiefling
+Class:
+About: 
+#### Guild Advisor: Frethah Vellum
+Age:  
+Race:  Firbolg
+Class:
+About: 
+#### Guild Recruiter: Nayte Shade
+Age:  
+Race:  Drow
+Class:
+About: 
+#### Guild Quester: Zhikes Tirlla
+Age:  
+Race:  Owlin
+Class:
+About: 
+#### Guild Trainer: Chulluk 
+Age:  
+Race:  Goliath
+Class:
+About: 
