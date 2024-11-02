@@ -9,7 +9,7 @@ The Queen is strikingly beautiful. Her smile can make your blood run cold and he
 
 #### The Winter Lady Maeve
 The Lady of winter is sadistic to say the least. Her idea of fun is far from what anyone would agree. 
-![Winter Lady Maeve pic.png](/img/user/Winter%20Lady%20Maeve%20pic.png)
+![Winter Lady Maeve pic.png](/img/user/Z%20NPC%20Pics/Winter%20Lady%20Maeve%20pic.png)
 
 #### The Winter Knight
 The Winter Knight. A Human who has agreed to a pact with the queen and has lived far more lives than a human should have ever lived. HE has lost his name to time and has lasted this long in the court by being so warped by his surroundings and succeeding at staying (mostly) sane he was given a title and a place, though lowly as it may be. 
