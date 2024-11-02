@@ -19,7 +19,7 @@ About: No one was surprised to find that the Guild Master of the DLC was a Tiefl
 
 
 
-![Pasted image 20241102005019.png](/img/user/Pasted%20image%2020241102005019.png)
+![Pasted image 20241102005019.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102005019.png)
 
 </div></div>
 
@@ -61,7 +61,7 @@ About: Zhikes is a upbeat and happy person, little can crush her optimism. She p
 
 
 
-![Pasted image 20241102004447.png](/img/user/Pasted%20image%2020241102004447.png)
+![Pasted image 20241102004447.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102004447.png)
 
 </div></div>
 
@@ -69,4 +69,12 @@ About: Zhikes is a upbeat and happy person, little can crush her optimism. She p
 Age:  
 Race:  Goliath
 Class:
-About: 
+About: As the Trainer of the DLC Chulluk takes his role seriously. Maybe too seriously. He likes to play into the role of brooding mysterious member of the DLC even though many other people in the Guild might not fit that same role. 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+![Pasted image 20241102005635.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102005635.png)
+
+</div></div>
