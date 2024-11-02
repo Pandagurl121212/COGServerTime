@@ -14,11 +14,11 @@ Age:
 Race:  Tiefling
 Class:
 About: 
-#### Guild Advisor: Frethah Vellum
+#### Guild Advisor: Frethah "Fret" Vellum
 Age:  
 Race:  Firbolg
 Class: Wizard
-About: 
+About: Frethah, also known as Fret, is a well educated Firbolg and was deemed the best choice as Guild Advisor for the DLC. He is clear headed though can be caught worrying about things that do not go as planned as he does not deal with mishaps well. He hates surprises as it goes against the plan and he works very hard on those! 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -29,10 +29,10 @@ About:
 </div></div>
 
 #### Guild Recruiter: Nayte Shade
-Age:  
+Age:  85
 Race:  Drow
-Class:
-About: 
+Class: Ranger
+About: Nayte is a Ranger and oddly playful for a Drow. He is charismatic and thus was picked as the Recruiter for the DLC. He likes to play pranks and poke fun at many members but assures you he means the best. Probably.
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
