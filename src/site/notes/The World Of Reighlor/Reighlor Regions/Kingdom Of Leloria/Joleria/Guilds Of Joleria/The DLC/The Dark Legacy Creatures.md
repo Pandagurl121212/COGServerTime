@@ -6,8 +6,6 @@ The Dark Legacy Creatures (The DLC) is a gathering of those generally out casted
 
 The DLC is not inherently evil but they also do not claim to be good by any means. They offer a lot of leeway to their members to get things done and will back those who are apart of their group against outsiders. 
 
-
-
 ## The DLC Staff:
 #### Guild Master: Rurgar Zo
 Age:  
