@@ -26,15 +26,7 @@ Age:
 Race:  Firbolg
 Class: Wizard
 About: Frethah, also known as Fret, is a well educated Firbolg and was deemed the best choice as Guild Advisor for the DLC. He is clear headed though can be caught worrying about things that do not go as planned as he does not deal with mishaps well. He hates surprises as it goes against the plan and he works very hard on those! 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-![Pasted image 20241102000310.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102000310.png)
-
-</div></div>
-
+![DLC Guild Advisor Frethah Vellum.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/DLC%20Guild%20Advisor%20Frethah%20Vellum.png)
 #### Guild Recruiter: Nayte Shade
 Age:  85
 Race:  Drow
