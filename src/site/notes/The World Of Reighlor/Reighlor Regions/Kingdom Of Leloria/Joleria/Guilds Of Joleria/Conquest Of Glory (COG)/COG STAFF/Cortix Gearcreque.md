@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-world-of-reighlor/reighlor-regions/kingdom-of-leloria/joleria/guilds-of-joleria/conquest-of-glory-cog/cog-staff/cortix-gearcreque/"}
 ---
 
-COG Weaponsmith 
+#### COG Weaponsmith: Cortix Gearcreque
 Age: 225 yrs 
 Race: Gnome 
 Class: Artificer 
