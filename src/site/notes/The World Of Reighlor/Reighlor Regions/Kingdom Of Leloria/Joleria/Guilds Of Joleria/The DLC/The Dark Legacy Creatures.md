@@ -17,13 +17,31 @@ About:
 #### Guild Advisor: Frethah Vellum
 Age:  
 Race:  Firbolg
-Class:
+Class: Wizard
 About: 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+![Pasted image 20241102000310.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102000310.png)
+
+</div></div>
+
 #### Guild Recruiter: Nayte Shade
 Age:  
 Race:  Drow
 Class:
 About: 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+![Pasted image 20241102000959.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102000959.png)
+
+</div></div>
+
 #### Guild Quester: Zhikes Tirlla
 Age:  
 Race:  Owlin
