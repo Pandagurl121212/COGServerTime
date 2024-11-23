@@ -17,7 +17,7 @@ About: No one was surprised to find that the Guild Master of the DLC was a Tiefl
 
 
 
-![Pasted image 20241102005019.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102005019.png)
+![DLC Guild Master Rurgar Zo.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/DLC%20Guild%20Master%20Rurgar%20Zo.png)
 
 </div></div>
 
