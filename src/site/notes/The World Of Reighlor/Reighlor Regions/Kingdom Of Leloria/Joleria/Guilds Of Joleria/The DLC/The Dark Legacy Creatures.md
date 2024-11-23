@@ -24,31 +24,16 @@ Age:  85
 Race:  Drow
 Class: Ranger
 About: Nayte is a Ranger and oddly playful for a Drow. He is charismatic and thus was picked as the Recruiter for the DLC. He likes to play pranks and poke fun at many members but assures you he means the best. Probably.
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-![Pasted image 20241102000959.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102000959.png)
-
-</div></div>
-
+![DLC Recruiter Nyate Shade.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/DLC%20Recruiter%20Nyate%20Shade.png)
 #### Guild Quester: Zhikes Tirlla
 Age:  
 Race:  Owlin
 Class: Cleric 
 About: Zhikes is a upbeat and happy person, little can crush her optimism. She prides herself in making sure there are plenty of quests available to her guildmates which is why she was picked as the DLC's Quester, though the quests may not be as savory as other guilds would have...or as throughly checked... BUT they are available and more quests equals more money equals happy guild members!
-![Zhikes.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Zhikes.png)
+![DLC Quester Zhikes Tirlla.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/DLC%20Quester%20Zhikes%20Tirlla.png)
 #### Guild Trainer: Chulluk 
 Age:  
 Race:  Goliath
 Class: Fighter
 About: As the Trainer of the DLC Chulluk takes his role seriously. Maybe too seriously. He likes to play into the role of brooding mysterious member of the DLC even though many other people in the Guild might not fit that same role. 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-![Pasted image 20241102005635.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102005635.png)
-
-</div></div>
+![DLC Trainer Chulluk.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/DLC%20Trainer%20Chulluk.png)
