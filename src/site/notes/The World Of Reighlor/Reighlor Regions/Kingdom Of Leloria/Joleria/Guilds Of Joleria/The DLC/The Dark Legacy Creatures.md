@@ -38,15 +38,7 @@ Age:
 Race:  Owlin
 Class: Cleric 
 About: Zhikes is a upbeat and happy person, little can crush her optimism. She prides herself in making sure there are plenty of quests available to her guildmates which is why she was picked as the DLC's Quester, though the quests may not be as savory as other guilds would have...or as throughly checked... BUT they are available and more quests equals more money equals happy guild members!
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-![Pasted image 20241102004447.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Pasted%20image%2020241102004447.png)
-
-</div></div>
-
+![Zhikes.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/Zhikes.png)
 #### Guild Trainer: Chulluk 
 Age:  
 Race:  Goliath
