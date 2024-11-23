@@ -12,15 +12,7 @@ Age:
 Race:  Tiefling
 Class: Warlock
 About: No one was surprised to find that the Guild Master of the DLC was a Tiefling or a warlock, but they were surprised by how likeable he was. He is feared for his many many successful missions and his reputation as one of the most merciless mercenaries is widely known. THe acts as though there is no bias against him or his kind or those he employees and generates an air of respect when speaking with anyone. His victims on the other hand see a side of his smile that is truly terrifying to behold. 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
 ![DLC Guild Master Rurgar Zo.png](/img/user/Z%20NPC%20Pics/DLC%20NPC%20Pics/DLC%20Guild%20Master%20Rurgar%20Zo.png)
-
-</div></div>
-
 #### Guild Advisor: Frethah "Fret" Vellum
 Age:  
 Race:  Firbolg
