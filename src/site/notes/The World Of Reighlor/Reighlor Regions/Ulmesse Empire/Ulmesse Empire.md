@@ -11,7 +11,7 @@ Ulmesse Noble Families:
 Tressa - Emperor/Ruling 
 Ruvyn - The Military (Favored Prized weapon double bladed scimitar)
 Frezan- The Arbitrators
-Morellae- The Merchants
+Navitales - The Merchants 
 Helion- The Priests
 
 
