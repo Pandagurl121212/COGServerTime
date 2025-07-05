@@ -8,10 +8,10 @@ Capitol: Katliaq
 
 Ulmesse Noble Families:
 
-Tressa - Emperor/Ruling 
-Ruvyn - The Military (Favored Prized weapon double bladed scimitar)
-Frezan- The Arbitrators
-Navitales - The Merchants 
-Helion- The Priests
+[[The World Of Reighlor/Reighlor Regions/Ulmesse Empire/Ulmesse Noble Families/Tressa\|Tressa]] - Emperor/Ruling 
+[[The World Of Reighlor/Reighlor Regions/Ulmesse Empire/Ulmesse Noble Families/Ruvyn\|Ruvyn]] - The Military (Favored Prized weapon double bladed scimitar)
+[[The World Of Reighlor/Reighlor Regions/Ulmesse Empire/Ulmesse Noble Families/Frezan\|Frezan]]- The Arbitrators
+[[The World Of Reighlor/Reighlor Regions/Ulmesse Empire/Ulmesse Noble Families/Navitales\|Navitales]] - The Merchants 
+[[The World Of Reighlor/Reighlor Regions/Ulmesse Empire/Ulmesse Noble Families/Helion\|Helion]]- The Priests
 
 
