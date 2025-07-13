@@ -17,7 +17,7 @@ Joleria is home to many Guilds. Below is a few of them.
 Joleria also has a large market square that is known for many amazing shops and artisans. Joleria is also visited by the most popular traveling merchants in the world. 
 
 Jolerian Shops:
-[[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Joleria Market/Potions Bloom\|Potions Bloom]]
+[[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Joleria Market/Potion's Bloom/Potion's Bloom\|Potion's Bloom]]
 [[The World Of Reighlor/Reighlor Regions/Kingdom Of Leloria/Joleria/Joleria Market/Edward's Enchantments\|Edward's Enchantments]]
 
 Visiting Merchants: 
