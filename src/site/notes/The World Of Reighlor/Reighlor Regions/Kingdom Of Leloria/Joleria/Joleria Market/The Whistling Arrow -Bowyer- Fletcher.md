@@ -3,9 +3,9 @@
 ---
 
 Shop Keep
-Name: 
+Name: Keykee
 Age:  
-Race: 
+Race: Hafling
 Class: 
 Rank: 
 About: 

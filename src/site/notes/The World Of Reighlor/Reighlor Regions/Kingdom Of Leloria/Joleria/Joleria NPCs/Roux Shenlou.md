@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/the-world-of-reighlor/reighlor-regions/kingdom-of-leloria/joleria/joleria-np-cs/roux-shenlou/"}
 ---
 
-Captain Of The Air Ship ( )
-Age: 17yrs 
+Captain Of The Air Ship ( The Sky Serpent)
+Age: 19yrs 
 Race: Human
 Class: 
 
