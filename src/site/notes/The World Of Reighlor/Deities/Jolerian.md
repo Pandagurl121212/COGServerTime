@@ -6,6 +6,7 @@
 
 **Alignment**: Neutral
 **Domain**: Pleasantries and love thy neighbor
+**Home Plane:**
 **Symbol**: 
 **About**: 
 
